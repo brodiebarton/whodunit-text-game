@@ -3,19 +3,19 @@
 
 ![Title Screen](screenshots/title_screen.jpg)
 
-## To Compile With gcc Compiler and Run:
+### To Compile With gcc Compiler and Run:
 Via command-line, navigate to directory where cloned.
 
 Change to 'whodunit-text-game' directory.
 
-To compile, input:
+__To compile__, input:
 	`g++ *.cpp -o whodunit.out`
 
 This will compile and output an executable named 'whodunit.out'
 
-To run, input:
+__To run__, input:
 	`./whodunit.out`
 
-Then the game will being and you should see the title screen shown above.
+The game will begin and you should see the title screen shown above.
 
 ### Enjoy.
